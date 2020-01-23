@@ -1,0 +1,9 @@
+pyserial
+pyvisa
+nidmm
+nidaqmx
+nimodinst
+niswitch
+nise
+pytest
+pyside2
