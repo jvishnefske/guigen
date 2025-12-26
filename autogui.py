@@ -3,7 +3,7 @@ from PySide2.QtCore import Slot, Qt
 from typing import Dict, List
 
 
-def example(a:int, b:str, c:list{int}):
+def example(a:int, b:str, c:List[int]):
 	print(f'{a} {b}')
 	
 class GuiException(Exception):
