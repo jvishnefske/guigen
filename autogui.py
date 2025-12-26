@@ -1,6 +1,6 @@
 from PySide2.QtWidgets import QApplication, QLabel, QPushButton, QVBoxLayout, QWidget
 from PySide2.QtCore import Slot, Qt
-from typing import Dict, List,
+from typing import Dict, List
 
 
 def example(a:int, b:str, c:list{int}):
